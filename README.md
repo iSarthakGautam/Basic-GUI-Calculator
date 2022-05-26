@@ -9,4 +9,4 @@ This is a basic GUI calculator based on use of HTML and Javascript.
 - initialize_app
 - input_number
 
-All this javascript functions provide the functionality to the app.
+All this javascript functions are resposible for functionality of the app.
